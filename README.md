@@ -1,2 +1,2 @@
 # MyCodes
-Aerodynamic related computational python codes Fortran related codes OpenFOAM CFD codes
+This repository contains aerodynamics-related Python and Fortran Codes
