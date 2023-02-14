@@ -1,2 +1,2 @@
 # MyCodes
-This repository contains Aerodynamic-related Python and Fortran Codes
+This repository contains computational related Python and Fortran Codes
